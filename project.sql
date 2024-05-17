@@ -1,10 +1,11 @@
-/* the customers table contains the details of all the customers.
-
-productLine contains data about the product line, products about the product details.
+/*
+There are in total 7 tables in the cars database.
+the customers table contains the details of all the customers.
+productLine contains data about the product line, products along with in-depth the product details.
 orderdetails contains the details of the orders placed.
-orders has the data of all the orders, and about the orders.
+orders has the data of all the orders, and about the orders (date, type,..).
 payments is a table of the payments made by the customers.
-offices is a table for the storage of all sales office and employees table contains the 
+offices is a table for with the list of all sales offices and employees table contains the 
 data about the employees working for the company.
 */
 
